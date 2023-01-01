@@ -1,0 +1,52 @@
+:root {
+  --theme-primary-color: #10b981;
+  --theme-secondary-color: #1c1917;
+  --theme-background-color: #d1fae5;
+}
+
+.memo_markdown_styles_markdown-class mark {
+  border-radius: 0;
+  color: var(--theme-primary-color);
+  background-color: transparent;
+  background-image: none;
+  border-bottom: 2px solid;
+  border-color: var(--theme-primary-color);
+  padding: 2px;
+  margin: 0;
+}
+
+.japanese {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.25rem;
+}
+
+.reading-container {
+  background: var(--theme-background-color);
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+}
+
+.reading {
+  font-size: 24px;
+  line-height: 1.25rem;
+  color: var(--theme-primary-color);
+}
+
+.meaning {
+  font-size: 16px;
+  line-height: 1.25rem;
+  margin-top: 18px;
+  font-weight: 700;
+  color: var(--theme-secondary-color);
+}
+
+.english-container {
+  margin-top: 24px;
+}
+
+.english {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.25rem;
+}
