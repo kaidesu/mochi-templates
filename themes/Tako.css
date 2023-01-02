@@ -50,3 +50,21 @@
   font-weight: 500;
   line-height: 1.25rem;
 }
+
+.related-container {
+  margin-top: 19px;
+}
+
+.related-icon {
+  background: var(--theme-primary-color);
+  color: white;
+  font-weight: 700;
+  border-radius: 0.15rem;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 0;
+  height: 20px;
+  width: 20px;
+  margin-right: 4px;
+}
