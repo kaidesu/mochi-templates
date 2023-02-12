@@ -28,8 +28,16 @@ B. << Japanese B >>
 <</ English B >>
 </div>
 
+<<# Related Word >>
+___
+<div class="related-container">
+<div class="related-icon">＋</div> << Related Word >><<# Related Reading >>【<< Related Reading >>】<</ Related Reading >> _<< Related Meaning >>_
+</div>
+<</ Related Word >>
+
 <<# Notes >>
 ___
 
+**Notes**
 << Notes >>
 <</ Notes >>
