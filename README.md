@@ -2,6 +2,9 @@
 Templates and supporting themes for Mochi.
 
 ## Changelog
+### 2023-02-11
+- Update `Vocabulary` template to actually include the `Related Word` update 😬 ごめん
+- Added new `Taro` theme!
 ### 2023-01-01
 - Added `Related Word`, `Related Reading`, and `Related Meaning` fields to Vocabulary template. These can be used to add an additional related word to your cards when needed.
 
