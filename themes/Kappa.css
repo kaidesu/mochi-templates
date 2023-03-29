@@ -4,7 +4,8 @@
   --theme-background-color: #d1fae5;
 }
 
-.memo_markdown_styles_markdown-class mark {
+.memo_markdown_styles_markdown-class mark,
+.memo_views_card_column-view_column-row-markdown-container mark {
   border-radius: 0;
   color: var(--theme-primary-color);
   background-color: transparent;
